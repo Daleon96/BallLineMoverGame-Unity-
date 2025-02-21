@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7a476973620d4100a4bcb549781a68b, type: 3}
+  m_Name: Level 6
+  m_EditorClassIdentifier: 
+  background: {fileID: 21300000, guid: e9045d6f8821846ecb107cc57011c2c4, type: 3}
+  block: {fileID: 21300000, guid: d32b4608ed9cd4a6d83377c7484ebf2e, type: 3}
+  wall: {fileID: 21300000, guid: 1e5d411f6bf7948a383f5ee1eec25758, type: 3}
+  _flatStates: 01000000010000000100000002000000020000000100000002000000010000000100000001000000000000000100000001000000020000000100000002000000020000000100000001000000010000000000000000000000000000000000000000000000
+  drawType: 2
+  starPosX: 0
+  startPosY: 2
+  currentRows: 5
+  currentColumns: 5
+  rows: 5
+  columns: 5

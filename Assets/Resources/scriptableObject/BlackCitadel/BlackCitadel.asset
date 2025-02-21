@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20c37a1ef4bc4500a6486e944529dd0, type: 3}
+  m_Name: BlackCitadel
+  m_EditorClassIdentifier: 
+  id: 200
+  title: BLACK CITADEL
+  modeTxt: Medium
+  background: {fileID: 21300000, guid: 105f4ae7a66664e8d8fa0d21b03acf7a, type: 3}
+  winAmount: 20
+  gameAudio: {fileID: 8300000, guid: 769ede155d9644288894158b70a369f1, type: 3}
+  levelList:
+  - {fileID: 11400000, guid: 7afaffdeb997144099353a3f789f1423, type: 2}
+  - {fileID: 11400000, guid: a25e20e3528464cd9a8e603f2ea12868, type: 2}
+  - {fileID: 11400000, guid: 0a0663fb60ebf4ee889b9c7f04d6cc72, type: 2}
+  - {fileID: 11400000, guid: 4e1a4813932f440959dc6254c5db4453, type: 2}
+  - {fileID: 11400000, guid: 3eb82c79e10224b8fb5923673009c14a, type: 2}
+  - {fileID: 11400000, guid: 30cef7cf5ba974504b81f6419b1a57f8, type: 2}
+  - {fileID: 11400000, guid: 8386a4ee3089040eea2545f67f807b9b, type: 2}
+  - {fileID: 11400000, guid: c5c029eb956994c5da8da045373a23fc, type: 2}
+  - {fileID: 11400000, guid: e725733c728fc46dcaca7d56cdecdc09, type: 2}
+  - {fileID: 11400000, guid: f87973e8e50264c86bacb87db2d09bb2, type: 2}

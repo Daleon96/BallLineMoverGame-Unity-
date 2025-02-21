@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d563ae468c9034a18af4e430a50c13d8, type: 3}
+  m_Name: OrcSkin
+  m_EditorClassIdentifier: 
+  id: 200101
+  cost: 0
+  title: Orc
+  mainSprite: {fileID: 21300000, guid: c02c22f9c23d240bdb713e514baf1c22, type: 3}
+  tailSprite: {fileID: 21300000, guid: 59249dbb8700e49feabfd3f3dbb4a32c, type: 3}
